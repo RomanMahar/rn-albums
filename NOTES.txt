@@ -1,0 +1,3 @@
+NOTES
+Props: parent to child communication
+State: used for a component's internal record keeping. only used with class based components, not functional components
